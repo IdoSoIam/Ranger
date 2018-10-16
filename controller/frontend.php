@@ -3,7 +3,6 @@ require('model/model.php');
 
 class Redi
 {
-
   public function __construct()
   {
 
@@ -26,23 +25,4 @@ class Redi
     require('view/frontend/include/template.php');
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  ?>
